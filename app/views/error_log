@@ -1,0 +1,151 @@
+[09-Dec-2015 14:37:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 14:37:30 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51)
+[09-Dec-2015 14:39:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 14:39:13 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51)
+[09-Dec-2015 14:39:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 14:39:59 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51)
+[09-Dec-2015 14:43:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 14:43:02 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:51)
+[09-Dec-2015 14:44:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 3
+[09-Dec-2015 14:44:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 3
+[09-Dec-2015 14:45:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 3
+[09-Dec-2015 14:46:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 3
+[09-Dec-2015 14:46:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 3
+[09-Dec-2015 14:49:08 UTC] PDOStatement: Unknown column 'designation' in 'where clause'
+[09-Dec-2015 15:24:08 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:24:08 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:24:18 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:24:18 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:26:42 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:26:42 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:28:00 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:28:00 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:28:58 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:28:58 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:29:03 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:29:03 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:31:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 15:31:56 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)
+[09-Dec-2015 15:31:56 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)')
+[09-Dec-2015 15:31:56 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[09-Dec-2015 15:31:56 UTC] [lib/base.php:1479] Base->expire(0)
+[09-Dec-2015 15:31:56 UTC] [app/views/index.php:187] Base->run()
+[09-Dec-2015 15:31:56 UTC] [app/views/index.php:102] getQuestions()
+[09-Dec-2015 15:33:39 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:33:39 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:36:12 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:36:12 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:37:40 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:37:40 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:45:37 UTC] PHP Warning:  Illegal string offset 'Status' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 15:45:37 UTC] PHP Warning:  Illegal string offset 'Info' in /home/twsixcom/public_html/starbox/app/views/request.php on line 70
+[09-Dec-2015 17:33:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:11) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 17:33:19 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:11)
+[09-Dec-2015 17:34:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:11) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 17:34:19 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:11)
+[09-Dec-2015 17:34:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:12) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 17:34:38 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:12)
+[09-Dec-2015 17:34:38 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:12)')
+[09-Dec-2015 17:34:38 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[09-Dec-2015 17:34:38 UTC] [lib/base.php:1479] Base->expire(0)
+[09-Dec-2015 17:34:38 UTC] [app/views/register.php:20] Base->run()
+[09-Dec-2015 17:36:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:12) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[09-Dec-2015 17:36:05 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:12)
+[09-Dec-2015 17:36:05 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/register.php:12)')
+[09-Dec-2015 17:36:05 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[09-Dec-2015 17:36:05 UTC] [lib/base.php:1479] Base->expire(0)
+[09-Dec-2015 17:36:05 UTC] [app/views/register.php:20] Base->run()
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/twsixcom/public_html/starbox/classes/db2.php on line 38
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/twsixcom/public_html/starbox/classes/db2.php on line 85
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  db::getRowAssoc(): Couldn't fetch mysqli in /home/twsixcom/public_html/starbox/classes/db2.php on line 87
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  db::getRowAssoc(): Couldn't fetch mysqli in /home/twsixcom/public_html/starbox/classes/db2.php on line 88
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  fopen(Error/ErrorLog.txt): failed to open stream: No such file or directory in /home/twsixcom/public_html/starbox/classes/db2.php on line 101
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/twsixcom/public_html/starbox/classes/db2.php on line 103
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/twsixcom/public_html/starbox/classes/db2.php on line 104
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/twsixcom/public_html/starbox/classes/db2.php on line 38
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/twsixcom/public_html/starbox/classes/db2.php on line 51
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  db::executeQuery(): Couldn't fetch mysqli in /home/twsixcom/public_html/starbox/classes/db2.php on line 53
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  db::executeQuery(): Couldn't fetch mysqli in /home/twsixcom/public_html/starbox/classes/db2.php on line 54
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  fopen(Error/ErrorLog.txt): failed to open stream: No such file or directory in /home/twsixcom/public_html/starbox/classes/db2.php on line 101
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/twsixcom/public_html/starbox/classes/db2.php on line 103
+[16-Dec-2015 13:33:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/twsixcom/public_html/starbox/classes/db2.php on line 104
+[18-Dec-2015 17:40:55 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[19-Dec-2015 10:59:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[19-Dec-2015 10:59:48 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)
+[19-Dec-2015 10:59:48 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)')
+[19-Dec-2015 10:59:48 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[19-Dec-2015 10:59:48 UTC] [lib/base.php:1479] Base->expire(0)
+[19-Dec-2015 10:59:48 UTC] [app/views/index.php:187] Base->run()
+[19-Dec-2015 10:59:48 UTC] [app/views/index.php:102] getQuestions()
+[19-Dec-2015 11:00:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[19-Dec-2015 11:00:34 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)
+[19-Dec-2015 11:00:34 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)')
+[19-Dec-2015 11:00:34 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[19-Dec-2015 11:00:34 UTC] [lib/base.php:1479] Base->expire(0)
+[19-Dec-2015 11:00:34 UTC] [app/views/index.php:187] Base->run()
+[19-Dec-2015 11:00:34 UTC] [app/views/index.php:102] getQuestions()
+[14-Jan-2016 23:38:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[14-Jan-2016 23:38:02 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)
+[14-Jan-2016 23:38:02 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)')
+[14-Jan-2016 23:38:02 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[14-Jan-2016 23:38:02 UTC] [lib/base.php:1479] Base->expire(0)
+[14-Jan-2016 23:38:02 UTC] [app/views/index.php:187] Base->run()
+[14-Jan-2016 23:38:02 UTC] [app/views/index.php:102] getQuestions()
+[14-Jan-2016 23:40:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[14-Jan-2016 23:40:17 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)
+[14-Jan-2016 23:40:17 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:58)')
+[14-Jan-2016 23:40:17 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[14-Jan-2016 23:40:17 UTC] [lib/base.php:1479] Base->expire(0)
+[14-Jan-2016 23:40:17 UTC] [app/views/index.php:187] Base->run()
+[14-Jan-2016 23:40:17 UTC] [app/views/index.php:102] getQuestions()
+[04-May-2016 14:40:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 14:40:12 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 14:40:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 14:40:42 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:08:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:08:07 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:11:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:11:07 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:11:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:11:14 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:12:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:12:21 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:15:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:15:25 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:17:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:17:21 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:21:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:21:16 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:21:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:21:37 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:21:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:21:58 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:22:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:22:44 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:29:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:29:18 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[04-May-2016 15:35:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 142
+[04-May-2016 15:35:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 142
+[04-May-2016 15:35:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 142
+[04-May-2016 15:35:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 142
+[04-May-2016 15:35:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 142
+[04-May-2016 15:37:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 142
+[04-May-2016 15:37:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/twsixcom/public_html/starbox/app/views/userLogin.php on line 142
+[04-May-2016 15:38:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[04-May-2016 15:38:44 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[19-May-2016 10:12:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[19-May-2016 10:12:13 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[07-Jun-2016 17:15:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[07-Jun-2016 17:15:56 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/userLogin.php:55)
+[07-Jun-2016 17:43:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:59) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[07-Jun-2016 17:43:56 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:59)
+[07-Jun-2016 17:43:56 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:59)')
+[07-Jun-2016 17:43:56 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[07-Jun-2016 17:43:56 UTC] [lib/base.php:1479] Base->expire(0)
+[07-Jun-2016 17:43:56 UTC] [app/views/index.php:99] Base->run()
+[07-Jun-2016 17:59:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:59) in /home/twsixcom/public_html/starbox/lib/base.php on line 1026
+[07-Jun-2016 17:59:27 UTC] Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:59)
+[07-Jun-2016 17:59:27 UTC] [lib/base.php:2015] Base->error(500,'Cannot modify header information - headers already sent by (output started at /home/twsixcom/public_html/starbox/app/views/index.php:59)')
+[07-Jun-2016 17:59:27 UTC] [lib/base.php:1037] header('X-Content-Type-Options: nosniff')
+[07-Jun-2016 17:59:27 UTC] [lib/base.php:1479] Base->expire(0)
+[07-Jun-2016 17:59:27 UTC] [app/views/index.php:97] Base->run()

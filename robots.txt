@@ -1,0 +1,3 @@
+# Please keep away from this file in other not to deplete my subscribed queries for GeoIP2 Thanks
+User-agent: * # match all bots
+Disallow: /app/views/register.php # keep them out
